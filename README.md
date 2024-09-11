@@ -13,7 +13,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 A définir
 
-Je modifie le texte pour test 😂
+Je modifie le texte en local 😂
 
 ```
 
