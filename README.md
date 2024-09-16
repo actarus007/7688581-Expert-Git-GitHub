@@ -55,7 +55,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Jack**
+* **Jack Corleone**
 
 ## License
 
